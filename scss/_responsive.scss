@@ -2,6 +2,21 @@
    .profile {
        width: 100%;
    } 
+
+   .main-section {
+
+    flex-flow: column;
+    }
+
+    .screenshots-section__article {
+        display: flex;
+        flex-flow: column;
+    }
+
+    .screenshots__img {
+        margin-bottom: 25px;
+    }
+
 }
 
 
